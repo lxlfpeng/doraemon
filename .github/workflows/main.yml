@@ -26,7 +26,7 @@ jobs:
     #Git提交并推送到仓库
     - name: commit and push
       run: |
-        git config --global user.email "565289282@qq.com"
+        git config --global user.email "lxlfpeng@163.com"
         git config --global user.name "lxlfpeng"
     #推送仓库到Gitee
     - name: push2gitee

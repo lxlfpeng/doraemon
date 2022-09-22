@@ -8,7 +8,7 @@ name: MakeJson2Gitee
 on:
   push:
     branches:
-      - master
+      - main
   # schedule:
   #   - cron: '45 02 * * *'
 
